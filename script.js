@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    
     const celciusInput = document.getElementById('celcius-input');
     const fahrenheitInput = document.getElementById('fahrenheit-input');
     const fahrenheitReverseInput = document.getElementById('fahrenheit-reverse-input');
